@@ -1,5 +1,6 @@
 require('@nomiclabs/hardhat-waffle');
-
+const dotenv = require('dotenv');
+dotenv.config();
 const providerUrl = process.env.MAINNET_PROVIDER_URL;
 const developmentMnemonic = process.env.DEV_ETH_MNEMONIC;
 

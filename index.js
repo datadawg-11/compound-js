@@ -18,7 +18,7 @@ const amounts = {
   // 'link': 25,
   // 'mkr': 2,
   // 'sushi': 25,
-  // 'uni': 10,
+  'uni': 10,
   'usdc': 100,
   // 'usdt': 100,
   // 'wbtc': 2,
